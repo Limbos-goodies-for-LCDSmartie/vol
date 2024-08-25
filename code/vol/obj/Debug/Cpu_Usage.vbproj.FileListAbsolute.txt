@@ -1,0 +1,10 @@
+C:\Users\nikos.georgousis\source\repos\Cpu_Usage\Cpu_Usage\bin\Debug\Cpu_Usage.dll
+C:\Users\nikos.georgousis\source\repos\Cpu_Usage\Cpu_Usage\bin\Debug\Cpu_Usage.pdb
+C:\Users\nikos.georgousis\source\repos\Cpu_Usage\Cpu_Usage\bin\Debug\Cpu_Usage.xml
+C:\Users\nikos.georgousis\source\repos\Cpu_Usage\Cpu_Usage\obj\Debug\Cpu_Usage.vbproj.AssemblyReference.cache
+C:\Users\nikos.georgousis\source\repos\Cpu_Usage\Cpu_Usage\obj\Debug\Cpu_Usage.Resources.resources
+C:\Users\nikos.georgousis\source\repos\Cpu_Usage\Cpu_Usage\obj\Debug\Cpu_Usage.vbproj.GenerateResource.cache
+C:\Users\nikos.georgousis\source\repos\Cpu_Usage\Cpu_Usage\obj\Debug\Cpu_Usage.vbproj.CoreCompileInputs.cache
+C:\Users\nikos.georgousis\source\repos\Cpu_Usage\Cpu_Usage\obj\Debug\Cpu_Usage.dll
+C:\Users\nikos.georgousis\source\repos\Cpu_Usage\Cpu_Usage\obj\Debug\Cpu_Usage.xml
+C:\Users\nikos.georgousis\source\repos\Cpu_Usage\Cpu_Usage\obj\Debug\Cpu_Usage.pdb

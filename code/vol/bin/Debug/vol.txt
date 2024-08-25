@@ -1,0 +1,10 @@
+vol.dll for LCD Smartie 5.6
+requires .net framework 4.8
+
+for plugin usage refer to LCD Smartie plugin info pane.
+
+Created by Nikos Georgousis aka Limbo
+Aug 2024
+
+
+

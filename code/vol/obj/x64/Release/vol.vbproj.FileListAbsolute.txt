@@ -1,0 +1,12 @@
+C:\NEXTCLOUD\Development\VB14\06.LCD Smartie Plugins\01. Created and Updated from 2023 and later\vol\code\vol\bin\x64\Release\vol.dll
+C:\NEXTCLOUD\Development\VB14\06.LCD Smartie Plugins\01. Created and Updated from 2023 and later\vol\code\vol\bin\x64\Release\vol.pdb
+C:\NEXTCLOUD\Development\VB14\06.LCD Smartie Plugins\01. Created and Updated from 2023 and later\vol\code\vol\bin\x64\Release\vol.xml
+C:\NEXTCLOUD\Development\VB14\06.LCD Smartie Plugins\01. Created and Updated from 2023 and later\vol\code\vol\bin\x64\Release\CoreAudioApi.dll
+C:\NEXTCLOUD\Development\VB14\06.LCD Smartie Plugins\01. Created and Updated from 2023 and later\vol\code\vol\obj\x64\Release\vol.vbproj.AssemblyReference.cache
+C:\NEXTCLOUD\Development\VB14\06.LCD Smartie Plugins\01. Created and Updated from 2023 and later\vol\code\vol\obj\x64\Release\vol.Resources.resources
+C:\NEXTCLOUD\Development\VB14\06.LCD Smartie Plugins\01. Created and Updated from 2023 and later\vol\code\vol\obj\x64\Release\vol.vbproj.GenerateResource.cache
+C:\NEXTCLOUD\Development\VB14\06.LCD Smartie Plugins\01. Created and Updated from 2023 and later\vol\code\vol\obj\x64\Release\vol.vbproj.CoreCompileInputs.cache
+C:\NEXTCLOUD\Development\VB14\06.LCD Smartie Plugins\01. Created and Updated from 2023 and later\vol\code\vol\obj\x64\Release\vol.vbproj.CopyComplete
+C:\NEXTCLOUD\Development\VB14\06.LCD Smartie Plugins\01. Created and Updated from 2023 and later\vol\code\vol\obj\x64\Release\vol.dll
+C:\NEXTCLOUD\Development\VB14\06.LCD Smartie Plugins\01. Created and Updated from 2023 and later\vol\code\vol\obj\x64\Release\vol.xml
+C:\NEXTCLOUD\Development\VB14\06.LCD Smartie Plugins\01. Created and Updated from 2023 and later\vol\code\vol\obj\x64\Release\vol.pdb

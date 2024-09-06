@@ -68,6 +68,10 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="CoreAudioApi">
+      <HintPath>..\..\..\..\..\..\..\..\Users\Nikos\Desktop\OneShotCopier\JustCopy\JustCopyConfigurator\Test Mute Detection\Test Mute Detection\bin\Debug\CoreAudioApi.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.Compatibility" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />

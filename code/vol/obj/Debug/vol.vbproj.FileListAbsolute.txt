@@ -22,3 +22,13 @@ D:\Nextcloud\Development\VB14\06. LCD Smartie Plugins\vol\code\vol\obj\Debug\vol
 D:\Nextcloud\Development\VB14\06. LCD Smartie Plugins\vol\code\vol\obj\Debug\vol.dll
 D:\Nextcloud\Development\VB14\06. LCD Smartie Plugins\vol\code\vol\obj\Debug\vol.xml
 D:\Nextcloud\Development\VB14\06. LCD Smartie Plugins\vol\code\vol\obj\Debug\vol.pdb
+D:\Nextcloud\Development\VB14\06. LCD Smartie Plugins\01. Created and Updated from 2023 and later\vol\code\vol\bin\Debug\vol.dll
+D:\Nextcloud\Development\VB14\06. LCD Smartie Plugins\01. Created and Updated from 2023 and later\vol\code\vol\bin\Debug\vol.pdb
+D:\Nextcloud\Development\VB14\06. LCD Smartie Plugins\01. Created and Updated from 2023 and later\vol\code\vol\bin\Debug\vol.xml
+D:\Nextcloud\Development\VB14\06. LCD Smartie Plugins\01. Created and Updated from 2023 and later\vol\code\vol\obj\Debug\vol.vbproj.AssemblyReference.cache
+D:\Nextcloud\Development\VB14\06. LCD Smartie Plugins\01. Created and Updated from 2023 and later\vol\code\vol\obj\Debug\vol.Resources.resources
+D:\Nextcloud\Development\VB14\06. LCD Smartie Plugins\01. Created and Updated from 2023 and later\vol\code\vol\obj\Debug\vol.vbproj.GenerateResource.cache
+D:\Nextcloud\Development\VB14\06. LCD Smartie Plugins\01. Created and Updated from 2023 and later\vol\code\vol\obj\Debug\vol.vbproj.CoreCompileInputs.cache
+D:\Nextcloud\Development\VB14\06. LCD Smartie Plugins\01. Created and Updated from 2023 and later\vol\code\vol\obj\Debug\vol.dll
+D:\Nextcloud\Development\VB14\06. LCD Smartie Plugins\01. Created and Updated from 2023 and later\vol\code\vol\obj\Debug\vol.xml
+D:\Nextcloud\Development\VB14\06. LCD Smartie Plugins\01. Created and Updated from 2023 and later\vol\code\vol\obj\Debug\vol.pdb
